@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2023-10-14T15:12:21.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="0QHW16wI1CtE_RcWRNZe" version="21.7.5" type="device">
+  <diagram name="Seite-1" id="rxg2vaxrziX4o0GtiLEI">
+    <mxGraphModel dx="1098" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="iXx1QngyD7fiSFSB5OO5-1" target="iXx1QngyD7fiSFSB5OO5-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="112.06000000000006" y="94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-1" value="Schüler" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="160" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iXx1QngyD7fiSFSB5OO5-1" target="iXx1QngyD7fiSFSB5OO5-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="iXx1QngyD7fiSFSB5OO5-4" target="iXx1QngyD7fiSFSB5OO5-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-4" value="Infos&lt;br&gt;-nummer&lt;br&gt;-vorN&lt;br&gt;-nachN&lt;br&gt;-fächer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="220" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iXx1QngyD7fiSFSB5OO5-9" target="iXx1QngyD7fiSFSB5OO5-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iXx1QngyD7fiSFSB5OO5-9" target="iXx1QngyD7fiSFSB5OO5-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iXx1QngyD7fiSFSB5OO5-9" target="iXx1QngyD7fiSFSB5OO5-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iXx1QngyD7fiSFSB5OO5-9" target="iXx1QngyD7fiSFSB5OO5-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="523" y="40" />
+              <mxPoint x="523" y="243" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-9" value="klasse einlesen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-10" value="überprüfen von Noten gültiger bereich 1-6" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="90" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="iXx1QngyD7fiSFSB5OO5-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="134.68965517241384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-12" value="durchschnittsnote berechnen" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="324" y="90" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-14" value="überprüfen ob die daten im gültigen bereich liegen" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="90" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iXx1QngyD7fiSFSB5OO5-16" value="ausgabe anpassen" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="230" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
